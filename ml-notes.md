@@ -1,0 +1,2 @@
+1. ANN Architecture and types: [input layer -> hidden layer -> output layer](https://aws.amazon.com/what-is/neural-network/#:~:text=A%20neural%20network%20is%20a,that%20resembles%20the%20human%20brain)
+3. 
