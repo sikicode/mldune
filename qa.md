@@ -7,5 +7,12 @@ Revisit Questions
 6. Data Collection: labelers? open-source? existing system? Why? 
    - Data splitting: how? ratio, pattern, in prediction sense? how do you deal with it? 
    - Data quantity: how do you reach a balance between data quantity and performance? 
-8. Data Handling: Besides cleaning data, what else do you do to ensure model performance?
-9. 
+8. Data Handling: Besides cleaning data, what else do you do to ensure model performance? Data expansion and improve system design.
+9. How do you remove bias from data? Can you give an example? (hint: randomization)
+10. Online Experiment: 
+    - How does A/B testing work? 
+    - Explain hypothesis writing process (hint: h0 and h1)
+    - Statistically how do you reject or not reject null hypothesis?
+    - In power analysis testing how much traffic should you assign to control and variant?
+    - 
+11. 
