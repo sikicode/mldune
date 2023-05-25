@@ -1,1 +1,2 @@
-# ml-studynotes
+# Machine Learning Study Notes
+## Catalog
